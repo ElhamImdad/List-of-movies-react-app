@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# List-of-movies-react-app
+display list of movies from Api using axios Library and using router in react
 
 ## Available Scripts
 
