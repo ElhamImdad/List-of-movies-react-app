@@ -1,0 +1,40 @@
+.card-size {
+    // height: 320px;
+     width: 260px;
+    margin: 1rem;
+   // padding: 2rem;
+}
+Space{
+    margin: 2rem;
+}
+.Home-Content{
+    background-color: #f5ffd9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(53, 12, 39);
+}
+.Home-Header{
+    background-color: rgb(53, 12, 39);
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: #f5ffd9;
+    min-width: 202.5vh;
+}
+.Home-Sider{
+    background-color: rgb(53, 12, 39);
+    color: #f5ffd9;
+}
+.Home-Footer{
+    background-color: rgba(53, 12, 39, 0.89);
+    color: #f5ffd9;
+}
+.sider-content{
+    color: #f5ffd9;
+    font-size: calc(8px + 1vmin);
+    justify-content: left;
+}
